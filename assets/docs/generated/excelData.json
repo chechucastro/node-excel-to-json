@@ -2408,11 +2408,13 @@
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gaara",
     "email": "gaara@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2442,6 +2444,7 @@
   {
     "username": "Majin Buu",
     "email": "majin.buu@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2465,6 +2468,7 @@
   {
     "username": "Zoro",
     "email": "zoro@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2524,6 +2528,7 @@
   {
     "username": "Erza Scarlet",
     "email": "erza.scarlet@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2535,6 +2540,7 @@
   {
     "username": "Erza Scarlet",
     "email": "erza.scarlet@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2552,6 +2558,7 @@
   {
     "username": "Cell",
     "email": "cell@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2569,6 +2576,7 @@
   {
     "username": "Nami",
     "email": "nami@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2580,11 +2588,13 @@
   {
     "username": "Frieza",
     "email": "frieza@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gaara",
     "email": "gaara@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2608,11 +2618,13 @@
   {
     "username": "Majin Buu",
     "email": "majin.buu@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2642,11 +2654,13 @@
   {
     "username": "Zoro",
     "email": "zoro@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Lucy Heartfilia",
     "email": "lucy.heartfilia@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2658,6 +2672,7 @@
   {
     "username": "Gaara",
     "email": "gaara@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2669,6 +2684,7 @@
   {
     "username": "Erza Scarlet",
     "email": "erza.scarlet@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2680,6 +2696,7 @@
   {
     "username": "Gaara",
     "email": "gaara@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2697,6 +2714,7 @@
   {
     "username": "Inuyasha",
     "email": "inuyasha@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2720,6 +2738,7 @@
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2749,26 +2768,31 @@
   {
     "username": "Gaara",
     "email": "gaara@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Majin Buu",
     "email": "majin.buu@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gaara",
     "email": "gaara@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Nami",
     "email": "nami@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2816,11 +2840,13 @@
   {
     "username": "Majin Buu",
     "email": "majin.buu@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2832,11 +2858,13 @@
   {
     "username": "Cell",
     "email": "cell@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Piccolo",
     "email": "piccolo@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2848,6 +2876,7 @@
   {
     "username": "Nami",
     "email": "nami@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2865,11 +2894,13 @@
   {
     "username": "Miroku",
     "email": "miroku@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Kagome",
     "email": "kagome@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2881,11 +2912,13 @@
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2915,6 +2948,7 @@
   {
     "username": "Kakashi",
     "email": "kakashi@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2944,6 +2978,7 @@
   {
     "username": "Lucy Heartfilia",
     "email": "lucy.heartfilia@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2961,16 +2996,19 @@
   {
     "username": "Lucy Heartfilia",
     "email": "lucy.heartfilia@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Kakashi",
     "email": "kakashi@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Miroku",
     "email": "miroku@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2982,6 +3020,7 @@
   {
     "username": "Sanji",
     "email": "sanji@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -2993,6 +3032,7 @@
   {
     "username": "Zoro",
     "email": "zoro@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3016,6 +3056,7 @@
   {
     "username": "Lucy Heartfilia",
     "email": "lucy.heartfilia@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3045,11 +3086,13 @@
   {
     "username": "Sango",
     "email": "sango@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Frieza",
     "email": "frieza@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3061,6 +3104,7 @@
   {
     "username": "Kakashi",
     "email": "kakashi@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3072,16 +3116,19 @@
   {
     "username": "Sango",
     "email": "sango@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Kagome",
     "email": "kagome@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3093,6 +3140,7 @@
   {
     "username": "Sango",
     "email": "sango@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3110,6 +3158,7 @@
   {
     "username": "Cell",
     "email": "cell@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3127,6 +3176,7 @@
   {
     "username": "Nami",
     "email": "nami@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3138,21 +3188,25 @@
   {
     "username": "Miroku",
     "email": "miroku@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Miroku",
     "email": "miroku@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gaara",
     "email": "gaara@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3164,6 +3218,7 @@
   {
     "username": "Nami",
     "email": "nami@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3175,6 +3230,7 @@
   {
     "username": "Gaara",
     "email": "gaara@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3192,6 +3248,7 @@
   {
     "username": "Piccolo",
     "email": "piccolo@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3227,6 +3284,7 @@
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3244,6 +3302,7 @@
   {
     "username": "Sanji",
     "email": "sanji@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3255,41 +3314,49 @@
   {
     "username": "Erza Scarlet",
     "email": "erza.scarlet@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Sanji",
     "email": "sanji@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Miroku",
     "email": "miroku@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Sanji",
     "email": "sanji@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Inuyasha",
     "email": "inuyasha@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gaara",
     "email": "gaara@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gray Fullbuster",
     "email": "gray.fullbuster@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Zoro",
     "email": "zoro@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3313,6 +3380,7 @@
   {
     "username": "Miroku",
     "email": "miroku@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3324,21 +3392,25 @@
   {
     "username": "Kagome",
     "email": "kagome@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gaara",
     "email": "gaara@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Frieza",
     "email": "frieza@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Lucy Heartfilia",
     "email": "lucy.heartfilia@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3362,6 +3434,7 @@
   {
     "username": "Erza Scarlet",
     "email": "erza.scarlet@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3373,6 +3446,7 @@
   {
     "username": "Piccolo",
     "email": "piccolo@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3384,11 +3458,13 @@
   {
     "username": "Piccolo",
     "email": "piccolo@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3400,21 +3476,25 @@
   {
     "username": "Gray Fullbuster",
     "email": "gray.fullbuster@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Miroku",
     "email": "miroku@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Frieza",
     "email": "frieza@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gray Fullbuster",
     "email": "gray.fullbuster@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3438,11 +3518,13 @@
   {
     "username": "Miroku",
     "email": "miroku@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Frieza",
     "email": "frieza@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3454,6 +3536,7 @@
   {
     "username": "Majin Buu",
     "email": "majin.buu@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3477,6 +3560,7 @@
   {
     "username": "Gaara",
     "email": "gaara@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3488,6 +3572,7 @@
   {
     "username": "Frieza",
     "email": "frieza@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3499,6 +3584,7 @@
   {
     "username": "Miroku",
     "email": "miroku@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3522,6 +3608,7 @@
   {
     "username": "Cell",
     "email": "cell@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3539,6 +3626,7 @@
   {
     "username": "Nami",
     "email": "nami@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3550,6 +3638,7 @@
   {
     "username": "Kakashi",
     "email": "kakashi@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3561,6 +3650,7 @@
   {
     "username": "Inuyasha",
     "email": "inuyasha@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3572,16 +3662,19 @@
   {
     "username": "Gray Fullbuster",
     "email": "gray.fullbuster@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Majin Buu",
     "email": "majin.buu@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Nami",
     "email": "nami@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3611,6 +3704,7 @@
   {
     "username": "Sango",
     "email": "sango@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3634,11 +3728,13 @@
   {
     "username": "Gray Fullbuster",
     "email": "gray.fullbuster@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Inuyasha",
     "email": "inuyasha@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3662,11 +3758,13 @@
   {
     "username": "Miroku",
     "email": "miroku@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Kagome",
     "email": "kagome@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3696,6 +3794,7 @@
   {
     "username": "Zoro",
     "email": "zoro@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3707,6 +3806,7 @@
   {
     "username": "Inuyasha",
     "email": "inuyasha@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3724,6 +3824,7 @@
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3771,6 +3872,7 @@
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3800,6 +3902,7 @@
   {
     "username": "Kagome",
     "email": "kagome@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3817,6 +3920,7 @@
   {
     "username": "Kagome",
     "email": "kagome@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3846,6 +3950,7 @@
   {
     "username": "Majin Buu",
     "email": "majin.buu@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3857,11 +3962,13 @@
   {
     "username": "Sanji",
     "email": "sanji@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Zoro",
     "email": "zoro@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3879,6 +3986,7 @@
   {
     "username": "Majin Buu",
     "email": "majin.buu@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3896,11 +4004,13 @@
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Miroku",
     "email": "miroku@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3912,6 +4022,7 @@
   {
     "username": "Miroku",
     "email": "miroku@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3935,16 +4046,19 @@
   {
     "username": "Cell",
     "email": "cell@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Majin Buu",
     "email": "majin.buu@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Lucy Heartfilia",
     "email": "lucy.heartfilia@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3968,11 +4082,13 @@
   {
     "username": "Sango",
     "email": "sango@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gray Fullbuster",
     "email": "gray.fullbuster@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -3984,16 +4100,19 @@
   {
     "username": "Sango",
     "email": "sango@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Inuyasha",
     "email": "inuyasha@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Sanji",
     "email": "sanji@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4011,6 +4130,7 @@
   {
     "username": "Nami",
     "email": "nami@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4022,11 +4142,13 @@
   {
     "username": "Sango",
     "email": "sango@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gaara",
     "email": "gaara@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4050,11 +4172,13 @@
   {
     "username": "Piccolo",
     "email": "piccolo@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Zoro",
     "email": "zoro@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4066,11 +4190,13 @@
   {
     "username": "Erza Scarlet",
     "email": "erza.scarlet@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Kagome",
     "email": "kagome@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4100,11 +4226,13 @@
   {
     "username": "Cell",
     "email": "cell@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Majin Buu",
     "email": "majin.buu@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4122,6 +4250,7 @@
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4139,11 +4268,13 @@
   {
     "username": "Frieza",
     "email": "frieza@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Erza Scarlet",
     "email": "erza.scarlet@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4167,6 +4298,7 @@
   {
     "username": "Piccolo",
     "email": "piccolo@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4202,21 +4334,25 @@
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Cell",
     "email": "cell@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Natsu Dragneel",
     "email": "natsu.dragneel@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Majin Buu",
     "email": "majin.buu@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4240,16 +4376,19 @@
   {
     "username": "Majin Buu",
     "email": "majin.buu@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Piccolo",
     "email": "piccolo@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Lucy Heartfilia",
     "email": "lucy.heartfilia@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4267,11 +4406,13 @@
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Gray Fullbuster",
     "email": "gray.fullbuster@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4289,11 +4430,13 @@
   {
     "username": "Sanji",
     "email": "sanji@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Lucy Heartfilia",
     "email": "lucy.heartfilia@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4311,6 +4454,7 @@
   {
     "username": "Kagome",
     "email": "kagome@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4322,6 +4466,7 @@
   {
     "username": "Frieza",
     "email": "frieza@hero.net",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4357,6 +4502,7 @@
   {
     "username": "Nami",
     "email": "nami@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4392,16 +4538,19 @@
   {
     "username": "Cell",
     "email": "cell@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Nami",
     "email": "nami@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Zoro",
     "email": "zoro@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4419,6 +4568,7 @@
   {
     "username": "Inuyasha",
     "email": "inuyasha@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4430,11 +4580,13 @@
   {
     "username": "Sango",
     "email": "sango@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Nami",
     "email": "nami@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4458,6 +4610,7 @@
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4475,6 +4628,7 @@
   {
     "username": "Kagome",
     "email": "kagome@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4498,11 +4652,13 @@
   {
     "username": "Kakashi",
     "email": "kakashi@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
     "username": "Madara Uchiha",
     "email": "madara.uchiha@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4514,6 +4670,7 @@
   {
     "username": "Piccolo",
     "email": "piccolo@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4531,6 +4688,7 @@
   {
     "username": "Cell",
     "email": "cell@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4602,6 +4760,7 @@
   {
     "username": "Kakashi",
     "email": "kakashi@animeworld.jp",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4613,6 +4772,7 @@
   {
     "username": "Kagome",
     "email": "kagome@adventure.org",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4624,6 +4784,7 @@
   {
     "username": "Majin Buu",
     "email": "majin.buu@fictional.com",
+    "password": "",
     "category": "Anime"
   },
   {
@@ -4635,6 +4796,7 @@
   {
     "username": "Lucy Heartfilia",
     "email": "lucy.heartfilia@magicmail.com",
+    "password": "",
     "category": "Anime"
   },
   {

@@ -1,3 +1,4 @@
+/* LO HUBIERA HECHO ASI USANDO LA LIBRERIA XLSX.
 // Import de libs
 import XLSX from 'xlsx';
 import { writeFileSync } from 'fs';
@@ -31,4 +32,32 @@ const excelData = dataRows.map((row) => ({
 console.log(excelData);
 
 // Crear un archivo json con los datos
+writeFileSync(outputJsonFilePath, JSON.stringify(excelData, null, 2));
+
+*/
+
+/*
+  USANDO LA LIBRERIA FS SOLAMENTE
+*/
+
+import { readFileSync, writeFileSync } from 'fs';
+
+const csvFilePath = './assets/docs/fictional_characters_db_v2.csv';
+const outputJsonFilePath = './assets/docs/generated/excelData.json';
+
+const fileData = readFileSync(csvFilePath, 'utf8').trim();
+const lines = fileData.split('\n');
+
+const headers = lines[0].split(',').map((header) => header.trim().toLowerCase());
+
+const excelData = lines.slice(1).map((row) => {
+    const values = row.split(',').map((cell) => cell.trim());
+    return headers.reduce((obj, header, index) => {
+        obj[header] = values[index];
+        return obj;
+    }, {});
+});
+
+console.log(excelData);
+
 writeFileSync(outputJsonFilePath, JSON.stringify(excelData, null, 2));
